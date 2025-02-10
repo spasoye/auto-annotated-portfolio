@@ -6,14 +6,14 @@
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
     "onPrimary": "#FBFFF2",
-    "secondary": "#FE491F",
+    "secondary": "#225828",
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
         "size": "6xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
